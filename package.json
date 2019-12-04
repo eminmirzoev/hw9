@@ -1,0 +1,23 @@
+{
+  "name": "hw9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eminmirzoev/hw9.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eminmirzoev/hw9/issues"
+  },
+  "homepage": "https://github.com/eminmirzoev/hw9#readme",
+  "dependencies": {
+    "mocha": "6.2.2",
+    "chai": "4.2.0"
+  }
+}
